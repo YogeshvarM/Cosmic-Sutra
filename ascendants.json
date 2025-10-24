@@ -1,0 +1,1658 @@
+{
+  "Aries": {
+    "lagnesh": "Mars",
+    "aditya": "Indra Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Mars",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Venus",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Mercury",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Moon",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Sun",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Mercury",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Venus",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Mars",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Jupiter",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Saturn",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Saturn",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Jupiter",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      }
+    ]
+  },
+  "Taurus": {
+    "lagnesh": "Venus",
+    "aditya": "Ravi Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Venus",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Mercury",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Moon",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Sun",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Mercury",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Venus",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Mars",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Jupiter",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Saturn",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Saturn",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Jupiter",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Mars",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      }
+    ]
+  },
+  "Gemini": {
+    "lagnesh": "Mercury",
+    "aditya": "Aryaman Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Mercury",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Moon",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Sun",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Mercury",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Venus",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Mars",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Jupiter",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Saturn",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Saturn",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Jupiter",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Mars",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Venus",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      }
+    ]
+  },
+  "Cancer": {
+    "lagnesh": "Moon",
+    "aditya": "Vishnu Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Moon",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Sun",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Mercury",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Venus",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Mars",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Jupiter",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Saturn",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Saturn",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Jupiter",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Mars",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Venus",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Mercury",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      }
+    ]
+  },
+  "Leo": {
+    "lagnesh": "Sun",
+    "aditya": "Mitra Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Sun",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Mercury",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Venus",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Mars",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Jupiter",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Saturn",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Saturn",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Jupiter",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Mars",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Venus",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Mercury",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Moon",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      }
+    ]
+  },
+  "Virgo": {
+    "lagnesh": "Mercury",
+    "aditya": "Aryama Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Mercury",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Venus",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Mars",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Jupiter",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Saturn",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Saturn",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Jupiter",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Mars",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Venus",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Mercury",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Moon",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Sun",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      }
+    ]
+  },
+  "Libra": {
+    "lagnesh": "Venus",
+    "aditya": "Vivasvan Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Venus",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Mars",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Jupiter",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Saturn",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Saturn",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Jupiter",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Mars",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Venus",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Mercury",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Moon",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Sun",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Mercury",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      }
+    ]
+  },
+  "Scorpio": {
+    "lagnesh": "Mars",
+    "aditya": "Twashtha Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Mars",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Jupiter",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Saturn",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Saturn",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Jupiter",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Mars",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Venus",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Mercury",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Moon",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Sun",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Mercury",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Venus",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      }
+    ]
+  },
+  "Sagittarius": {
+    "lagnesh": "Jupiter",
+    "aditya": "Bhaga Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Jupiter",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Saturn",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Saturn",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Jupiter",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Mars",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Venus",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Mercury",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Moon",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Sun",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Mercury",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Venus",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Mars",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      }
+    ]
+  },
+  "Capricorn": {
+    "lagnesh": "Saturn",
+    "aditya": "Pushan Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Saturn",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Saturn",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Jupiter",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Mars",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Venus",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Mercury",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Moon",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Sun",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Mercury",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Venus",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Mars",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Jupiter",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      }
+    ]
+  },
+  "Aquarius": {
+    "lagnesh": "Saturn",
+    "aditya": "Varuna Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Saturn",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Varuna Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Jupiter",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Mars",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Venus",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Mercury",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Moon",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Sun",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Mercury",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Venus",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Mars",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Jupiter",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Saturn",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      }
+    ]
+  },
+  "Pisces": {
+    "lagnesh": "Jupiter",
+    "aditya": "Mitra/Vishnu Aditya",
+    "houses": [
+      {
+        "house": 1,
+        "sign_en": "Pisces",
+        "sign_sa": "Meena",
+        "meanings": "My Self / My Body / My Health / My Personality / My Intelligence / My Appearance",
+        "ruler": "Jupiter",
+        "karakas": "Sun (vitality), Mars (body)",
+        "mks": "Saturn",
+        "digbala": "Jupiter & Mercury",
+        "aditya": "Mitra/Vishnu Aditya"
+      },
+      {
+        "house": 2,
+        "sign_en": "Aries",
+        "sign_sa": "Mesha",
+        "meanings": "My Family / My Wealth / My Speech / My Food / My Values / My Face / My Savings",
+        "ruler": "Mars",
+        "karakas": "Jupiter (family), Mercury (speech)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Indra Aditya"
+      },
+      {
+        "house": 3,
+        "sign_en": "Taurus",
+        "sign_sa": "Vrishabha",
+        "meanings": "My Younger Siblings / My Courage / My Effort / My Communication / My Hands / My Short Travel / My Writing",
+        "ruler": "Venus",
+        "karakas": "Mars (courage), Mercury (communication)",
+        "mks": "Jupiter",
+        "digbala": "—",
+        "aditya": "Ravi Aditya"
+      },
+      {
+        "house": 4,
+        "sign_en": "Gemini",
+        "sign_sa": "Mithuna",
+        "meanings": "My Mother / My Home / My Property / My Education / My Inner Peace / My Comforts / My Chest-Heart / My Vehicles",
+        "ruler": "Mercury",
+        "karakas": "Moon (mother), Venus (comforts)",
+        "mks": "Ketu",
+        "digbala": "Moon & Venus",
+        "aditya": "Aryaman Aditya"
+      },
+      {
+        "house": 5,
+        "sign_en": "Cancer",
+        "sign_sa": "Karka",
+        "meanings": "My Children / My Creativity / My Intelligence / My Romance / My Mantras / My Speculation / My Past Karma",
+        "ruler": "Moon",
+        "karakas": "Jupiter (children), Sun (authority)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Vishnu Aditya"
+      },
+      {
+        "house": 6,
+        "sign_en": "Leo",
+        "sign_sa": "Simha",
+        "meanings": "My Enemies / My Debts / My Diseases / My Service / My Work / My Litigation / My Pets / My Habits",
+        "ruler": "Sun",
+        "karakas": "Mars (competition), Saturn (obstacles), Mercury (service)",
+        "mks": "Venus",
+        "digbala": "—",
+        "aditya": "Mitra Aditya"
+      },
+      {
+        "house": 7,
+        "sign_en": "Virgo",
+        "sign_sa": "Kanya",
+        "meanings": "My Spouse / My Partner / My Marriage / My Contracts / My Business / My Public Relations",
+        "ruler": "Mercury",
+        "karakas": "Venus (marriage), Jupiter (husband)",
+        "mks": "Mars & Mercury",
+        "digbala": "Saturn",
+        "aditya": "Aryama Aditya"
+      },
+      {
+        "house": 8,
+        "sign_en": "Libra",
+        "sign_sa": "Tula",
+        "meanings": "My Longevity / My Transformation / My Secrets / My Inheritance / My Joint Finances / My Accidents / My Research / My Occult",
+        "ruler": "Venus",
+        "karakas": "Saturn (longevity), Ketu (occult)",
+        "mks": "Moon",
+        "digbala": "—",
+        "aditya": "Vivasvan Aditya"
+      },
+      {
+        "house": 9,
+        "sign_en": "Scorpio",
+        "sign_sa": "Vrishchika",
+        "meanings": "My Father / My Guru / My Fortune / My Dharma / My Higher Learning / My Pilgrimage / My Long Journeys",
+        "ruler": "Mars",
+        "karakas": "Sun (father), Jupiter (guru)",
+        "mks": "Rahu",
+        "digbala": "—",
+        "aditya": "Twashtha Aditya"
+      },
+      {
+        "house": 10,
+        "sign_en": "Sagittarius",
+        "sign_sa": "Dhanus",
+        "meanings": "My Career / My Profession / My Reputation / My Authority / My Status / My Actions / My Karma",
+        "ruler": "Jupiter",
+        "karakas": "Sun (authority), Mercury (profession), Saturn (work)",
+        "mks": "—",
+        "digbala": "Sun & Mars",
+        "aditya": "Bhaga Aditya"
+      },
+      {
+        "house": 11,
+        "sign_en": "Capricorn",
+        "sign_sa": "Makara",
+        "meanings": "My Gains / My Income / My Friends / My Elder Siblings / My Networks / My Ambitions",
+        "ruler": "Saturn",
+        "karakas": "Jupiter (gains), Saturn (organization)",
+        "mks": "—",
+        "digbala": "—",
+        "aditya": "Pushan Aditya"
+      },
+      {
+        "house": 12,
+        "sign_en": "Aquarius",
+        "sign_sa": "Kumbha",
+        "meanings": "My Losses / My Expenses / My Foreign Lands / My Sleep / My Meditation / My Bed Pleasures / My Isolation / My Liberation",
+        "ruler": "Saturn",
+        "karakas": "Saturn (losses), Ketu (moksha), Venus (bed comforts)",
+        "mks": "Sun",
+        "digbala": "—",
+        "aditya": "Varuna Aditya"
+      }
+    ]
+  }
+}

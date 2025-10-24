@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#0b0d12">
+  <title>Cosmic Sūtra – Ascendant House Guide</title>
+  <meta name="description" content="Ascendant-wise house meanings with legend – Adityas, Dusthana, MKS, Digbala. Mobile-first, print-ready.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='url(%23g)'/><defs><linearGradient id='g' x1='0' y1='0' x2='100' y2='100'><stop stop-color='%237ae3ff'/><stop offset='1' stop-color='%23ffcc7a'/></linearGradient></defs></svg>">
+</head>
+<body>
+  <header class="header">
+    <nav class="nav container">
+      <div class="brand">
+        <div class="logo"></div>
+        <span>Cosmic Sūtra</span>
+      </div>
+      <div class="actions">
+        <a class="btn" href="#legend">Legend</a>
+        <a class="btn" href="#ascendants">Houses</a>
+        <button id="printBtn" class="btn print-only">📄 PDF</button>
+      </div>
+    </nav>
+  </header>
+
+  <section class="hero container">
+    <h1>Ascendant‑Wise House Meanings</h1>
+    <p class="subtitle">Your universe, organized – paste‑ready bullets for every ascendant.</p>
+    <div class="panel">
+      <div class="controls">
+        <select id="ascSel" title="Choose Ascendant" aria-label="Choose Ascendant">
+          <option value="" disabled>Select Ascendant</option>
+        </select>
+        <input id="search" type="text" placeholder="Search (marriage, career, mother)…" aria-label="Search cards">
+      </div>
+      <p class="search-info">💡 Tap any card to copy • Swipe through ascendants</p>
+    </div>
+  </section>
+
+  <section id="legend" class="section container">
+    <h2>Legend & Basics</h2>
+    <div class="kv">
+      <div class="box box-wide">
+        <h4>🌟 Four Pillars</h4>
+        <ul>
+          <li><b>Grahas:</b> The nine planets (Navagrahas) are the main actors influencing life's areas.</li>
+          <li><b>Rāśis:</b> The twelve zodiac signs — the field through which planets act, each with its own nature and element.</li>
+          <li><b>Bhāvas:</b> The twelve houses represent areas of life — Self, Wealth, Communication, etc.</li>
+          <li><b>Vargas:</b> Divisional charts (D-charts) give finer details — D-9 (Navāṁśa) for marriage/dharma, D-10 for profession, etc.</li>
+        </ul>
+      </div>
+      
+      <div class="box box-wide">
+        <h4>🏛️ House Groups</h4>
+        <ul>
+          <li><b>Kendra (1, 4, 7, 10):</b> "Pillars" of life — foundation of personal, domestic, social, and professional existence.</li>
+          <li><b>Trikona (1, 5, 9):</b> Houses of Dharma — luck, intelligence, and life purpose.</li>
+          <li><b>Upacchaya (3, 6, 10, 11):</b> Growth houses — areas that improve through effort and time.</li>
+          <li><b>Dusthāna (6, 8, 12):</b> Difficult or transformative houses — challenges, debts, disease, and spiritual release.</li>
+        </ul>
+      </div>
+      
+      <div class="box box-wide">
+        <h4>⚡ Digbala (Directional Strength)</h4>
+        <p class="box-intro">Each planet gains maximum strength in certain directions:</p>
+        <ul>
+          <li><b>Sun & Mars (10th House):</b> Power and visibility (southern direction).</li>
+          <li><b>Jupiter & Mercury (1st House):</b> Wisdom and intellect (eastern direction).</li>
+          <li><b>Moon & Venus (4th House):</b> Peace and emotional contentment (northern direction).</li>
+          <li><b>Saturn (7th House):</b> Endurance and worldly discipline (western direction).</li>
+        </ul>
+      </div>
+      
+      <div class="box box-wide">
+        <h4>⚠️ MKS (Marana Kāraka Sthāna)</h4>
+        <p class="box-intro">The "death-like" position for a planet — where its significations weaken.</p>
+        <ul>
+          <li><b>Sun (12th):</b> Loss of vitality, obscured ego.</li>
+          <li><b>Moon (8th):</b> Emotional instability, hidden mind.</li>
+          <li><b>Mars (7th):</b> Misplaced aggression.</li>
+          <li><b>Mercury (7th):</b> Distracted intellect.</li>
+          <li><b>Jupiter (3rd):</b> Diminished wisdom.</li>
+          <li><b>Venus (6th):</b> Struggles in pleasure/relationships.</li>
+          <li><b>Saturn (1st):</b> Weak vitality or self-confidence.</li>
+          <li><b>Rahu (9th):</b> Unsteady faith.</li>
+          <li><b>Ketu (4th):</b> Emotional detachment.</li>
+        </ul>
+      </div>
+      
+      <div class="box box-wide">
+        <h4>🔑 Natural Karakas (Significators)</h4>
+        <p class="box-intro">Each planet naturally represents life areas:</p>
+        <ul>
+          <li><b>Sun:</b> Soul, father, authority</li>
+          <li><b>Moon:</b> Mind, mother, emotions</li>
+          <li><b>Mars:</b> Courage, energy, siblings</li>
+          <li><b>Mercury:</b> Intellect, communication</li>
+          <li><b>Jupiter:</b> Wisdom, children, teacher</li>
+          <li><b>Venus:</b> Relationships, comforts</li>
+          <li><b>Saturn:</b> Work, endurance, longevity</li>
+          <li><b>Rahu/Ketu:</b> Material obsession / spiritual release</li>
+        </ul>
+      </div>
+      
+      <div class="box box-wide">
+        <h4>☀️ Ādityas (Solar Deities)</h4>
+        <p class="box-intro">The twelve Ādityas are divine aspects of the Sun that preside over each zodiac sign — they grant their unique virtues:</p>
+        <ul>
+          <li><b>Aries – Indra:</b> Leadership, initiative, courage</li>
+          <li><b>Taurus – Ravi:</b> Stability, strength</li>
+          <li><b>Gemini – Aryaman:</b> Communication, kinship</li>
+          <li><b>Cancer – Vishnu:</b> Preservation, emotional wisdom</li>
+          <li><b>Leo – Mitra:</b> Friendship, generosity</li>
+          <li><b>Virgo – Aryama:</b> Service, duty, refinement</li>
+          <li><b>Libra – Vivasvan:</b> Balance, fairness, social grace</li>
+          <li><b>Scorpio – Twashtha:</b> Transformation, regeneration</li>
+          <li><b>Sagittarius – Bhaga:</b> Fortune, divine joy</li>
+          <li><b>Capricorn – Pushan:</b> Guidance, protection</li>
+          <li><b>Aquarius – Varuna:</b> Cosmic order, morality</li>
+          <li><b>Pisces – Mitra/Vishnu:</b> Compassion, spiritual union</li>
+        </ul>
+      </div>
+    </div>
+    <hr class="sep">
+  </section>
+
+  <section id="ascendants" class="section container">
+    <h2 id="titleAsc">Select Ascendant Above ↑</h2>
+    <div id="grid" class="grid"></div>
+  </section>
+
+  <footer class="footer">
+    <div>Made with ♥ & Universal Blessings – Cosmic Sūtra</div>
+  </footer>
+
+  <div id="toast" class="toast"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
